@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1e293b;
+  background: linear-gradient(
+    135deg,
+    #0f172a,
+    #075985,
+    #38bdf8
+  );
+}
+
+button,
+input {
+  font: inherit;
+}
